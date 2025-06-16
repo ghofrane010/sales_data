@@ -4,7 +4,7 @@ Chager et nettoyer le fichier des données
 Analyser les tendences par categorie de produit, region et date 
 Generer des visulations( bar, chart, line chart)
 
-# Technologies utilisees 
+# 🔧Technologies utilisees 
 Python 
 Jupyter Notebook 
 Pandas
